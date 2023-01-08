@@ -4,7 +4,7 @@ This is ToTo, your average to do app. Created for my portfolio, but has a lot of
 # Screenshots
 <div style="width:60px ; height:60px">
 ![Landing page](/screenshots/screenshot_landing.png?raw=true "Landing")
-</div>
+<div>
 ![Registration page](/screenshots/screenshot_register.png?raw=true "Register")
 ![Login page](/screenshots/screenshot_login.png?raw=true "Login")
 ![Home page](/screenshots/screenshot_full_list.png?raw=true "Home")
