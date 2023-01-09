@@ -1,6 +1,16 @@
 # ToTo - A ToDo App With React Native
 This is ToTo, your average to do app. Created for my portfolio, but has a lot of useful functionality and examples.
 
+
+## Screenshots:
+![Landing page](/screenshots/screenshot_landing.png?raw=true "Landing")
+![Registration page](/screenshots/screenshot_register.png?raw=true "Register")
+![Login page](/screenshots/screenshot_login.png?raw=true "Login")
+![Home page](/screenshots/screenshot_full_list.png?raw=true "Home")
+![Home page](/screenshots/screenshot_full_list_marked.png?raw=true "Home")
+![Home page](/screenshots/screenshot_short_list.png?raw=true "Home")
+![Home page](/screenshots/screenshot_add.png?raw=true "Home")
+
 ## Prerequisites:
 
 In order to launch this application first create an 'ignore.js' file that exports a LOCAL_ADDRESS variable like so:
@@ -24,12 +34,3 @@ Next go into the 'Frontend' directory in a separate command line and running:
   npm start
 ```
 Now You should be able to scan the QR code on your phone or follow the other procedures it gives you to run an emulator.
-
-## Screenshots:
-![Landing page](/screenshots/screenshot_landing.png?raw=true "Landing")
-![Registration page](/screenshots/screenshot_register.png?raw=true "Register")
-![Login page](/screenshots/screenshot_login.png?raw=true "Login")
-![Home page](/screenshots/screenshot_full_list.png?raw=true "Home")
-![Home page](/screenshots/screenshot_full_list_marked.png?raw=true "Home")
-![Home page](/screenshots/screenshot_short_list.png?raw=true "Home")
-![Home page](/screenshots/screenshot_add.png?raw=true "Home")
