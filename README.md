@@ -4,13 +4,13 @@ This is ToTo, your average to do app. Created for my portfolio, but has a lot of
 
 ## Screenshots:
 <p float="left">
-<img src="/screenshots/screenshot_landing.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_register.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_login.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_full_list.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_full_list_marked.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_short_list.png?raw=true" width="15%">
-<img src="/screenshots/screenshot_add.png?raw=true" width="15%">
+<img src="/screenshots/screenshot_landing.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_register.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_login.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_full_list.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_full_list_marked.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_short_list.png?raw=true" width="33%">
+<img src="/screenshots/screenshot_add.png?raw=true" width="33%">
 </p>
 
 ## Prerequisites:
